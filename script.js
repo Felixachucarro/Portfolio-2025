@@ -34,4 +34,6 @@ var swiper = new Swiper(".mySwiper", {
     },
     thumbs: {
       swiper: swiper,
-    }),
+    },
+
+  });
